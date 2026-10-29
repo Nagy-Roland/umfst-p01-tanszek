@@ -14,3 +14,4 @@ Az UMFST Élettani Tanszékének akadálymentes, szemantikus HTML5-ön alapuló 
 * **`<address>`**: Az elérhetőségek jelölése kattintható `tel:` és `mailto:` linkekkel.
 
 ## Élő demó
+[https://nagy-roland.github.io/umfst-p01-tanszek/](https://nagy-roland.github.io/umfst-p01-tanszek/)
